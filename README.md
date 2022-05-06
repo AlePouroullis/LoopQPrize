@@ -1,3 +1,6 @@
+# Loop Q Prize
+<font size="3">By Alexandros P. Pouroullis</font>
+
 # Papers Cited
 
 Crop yield prediction using machine learning: A systematic literature review:
