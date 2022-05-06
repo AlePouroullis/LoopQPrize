@@ -5,7 +5,10 @@
 Crop Yield [EDA + Viz]
 <br>https://www.kaggle.com/code/patelris/crop-yield-eda-viz
 <br>By Rishi Patel
-
+<br><br>
+Comprehensive data exploration with Python
+<br>https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook
+<br>By Pero Marcelino
 
 ### Papers cited
 Crop yield prediction using machine learning: A systematic literature review:<br>
