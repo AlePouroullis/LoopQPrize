@@ -1,0 +1,20 @@
+Crop Yield [EDA + Viz]
+https://www.kaggle.com/code/patelris/crop-yield-eda-viz
+
+Data Exploration:
+https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook
+
+Neural Networks for Regression:
+https://www.tensorflow.org/tutorials/keras/regression
+
+Dealing with over- and under-fitting in neural networks:
+https://www.tensorflow.org/tutorials/keras/overfit_and_underfit
+
+How To Improve Deep Learning Performance:
+https://machinelearningmastery.com/improve-deep-learning-performance/
+
+Comparison of Model Performance With the Addition of Irrelevant Features
+https://bookdown.org/max/FES/feature-selection-simulation.html
+
+On optimal batch sizes:
+https://wandb.ai/ayush-thakur/dl-question-bank/reports/What-s-the-Optimal-Batch-Size-to-Train-a-Neural-Network---VmlldzoyMDkyNDU
