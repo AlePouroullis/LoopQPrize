@@ -4,5 +4,5 @@
 
 ### Alexandros P. Pouroullis
 
-This folder stores all the files used in solving challenge B of the Loop Q Prize.
+This folder stores most of the files I used in solving challenge B of the Loop Q Prize.
 
