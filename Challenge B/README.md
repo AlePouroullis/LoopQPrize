@@ -1,5 +1,4 @@
 # Loop Q Prize
-<font size="4">By Alexandros P. Pouroullis</font>
 
 ## Challenge B: Crop Yield Prediction
 
