@@ -1,6 +1,10 @@
 # Loop Q Prize
 <font size="4">By Alexandros P. Pouroullis</font>
 
+## Challenge B: Crop Yield Prediction
+
+### Alexandros P. Pouroullis
+
 ### Projects referenced
 Crop Yield [EDA + Viz]
 <br>https://www.kaggle.com/code/patelris/crop-yield-eda-viz
