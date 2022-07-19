@@ -1,4 +1,4 @@
-# LoopQPrize
+# Loop Q Prize
 
 ### Alexandros P. Pouroullis
 
